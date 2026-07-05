@@ -78,3 +78,86 @@ $wanwu-jieke-haaland
 - `SKILL.md`
 - `agents/openai.yaml`
 - `assets/examples/`
+
+---
+
+# Everything Can Be Haaland
+
+Turn any person reference photo into a fixed set of **HAALAND character ice-pop images**.
+
+This Skill is not a simple face swap. It keeps recognizable identity cues such as facial structure, hairstyle, and accessories, then converts the subject into a unified Haaland-style novelty popsicle with fixed materials, poses, jerseys, expressions, and an amusement-park product-photo scene.
+
+## Output Styles
+
+By default, one person photo generates four fixed looks:
+
+- Sky-blue jersey kissy pout: tiny fists, puffy cheeks, cute Q-version ice-pop portrait.
+- Black jersey tongue-out: side-facing playful expression with tiny fists.
+- Sky-blue seated meditation: cross-legged pose with OK mudra hands.
+- Cream flying bust: vanilla sculpture body with swept-back hair and carved facial details.
+
+## Examples
+
+### Me As Haaland
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/examples/self-blue-kiss.jpg" width="180"><br>Blue Kissy Pout</td>
+    <td align="center"><img src="assets/examples/self-black-tongue.jpg" width="180"><br>Black Tongue-Out</td>
+    <td align="center"><img src="assets/examples/self-blue-meditation.jpg" width="180"><br>Blue Meditation</td>
+    <td align="center"><img src="assets/examples/self-cream-flying.jpg" width="180"><br>Cream Flying Bust</td>
+  </tr>
+</table>
+
+### Messi As Haaland
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/examples/messi-blue-kiss.jpg" width="180"><br>Blue Kissy Pout</td>
+    <td align="center"><img src="assets/examples/messi-black-tongue.jpg" width="180"><br>Black Tongue-Out</td>
+    <td align="center"><img src="assets/examples/messi-blue-meditation.jpg" width="180"><br>Blue Meditation</td>
+    <td align="center"><img src="assets/examples/messi-cream-flying.jpg" width="180"><br>Cream Flying Bust</td>
+  </tr>
+</table>
+
+### Mbappe As Haaland
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/examples/mbappe-blue-kiss.jpg" width="180"><br>Blue Kissy Pout</td>
+    <td align="center"><img src="assets/examples/mbappe-black-tongue.jpg" width="180"><br>Black Tongue-Out</td>
+    <td align="center"><img src="assets/examples/mbappe-blue-meditation.jpg" width="180"><br>Blue Meditation</td>
+    <td align="center"><img src="assets/examples/mbappe-cream-flying.jpg" width="180"><br>Cream Flying Bust</td>
+  </tr>
+</table>
+
+### Ronaldo As Haaland
+
+<table>
+  <tr>
+    <td align="center"><img src="assets/examples/ronaldo-blue-kiss.jpg" width="180"><br>Blue Kissy Pout</td>
+    <td align="center"><img src="assets/examples/ronaldo-black-tongue.jpg" width="180"><br>Black Tongue-Out</td>
+    <td align="center"><img src="assets/examples/ronaldo-blue-meditation.jpg" width="180"><br>Blue Meditation</td>
+    <td align="center"><img src="assets/examples/ronaldo-cream-flying.jpg" width="180"><br>Cream Flying Bust</td>
+  </tr>
+</table>
+
+## Usage
+
+Use in Codex:
+
+```text
+$wanwu-jieke-haaland
+```
+
+Or say directly:
+
+```text
+Turn this person image into four ice-pop images.
+```
+
+## Files
+
+- `SKILL.md`
+- `agents/openai.yaml`
+- `assets/examples/`
