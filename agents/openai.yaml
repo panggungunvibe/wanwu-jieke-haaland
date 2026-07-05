@@ -1,0 +1,4 @@
+interface:
+  display_name: "万物皆可哈兰德"
+  short_description: "单张真人照片生成四款HAALAND人物雪糕图"
+  default_prompt: "Use $wanwu-jieke-haaland to generate all four HAALAND popsicle styles from this person photo: blue kissy-pout, black tongue-out, blue seated meditation, and cream flying sly-grin bust."
